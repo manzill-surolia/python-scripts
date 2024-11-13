@@ -4,8 +4,8 @@ import datetime
 
 # Hard-coded list of URLs to check
 urls = [
-    "https://aka.ms/AAc07sb",
-    "https://aka.ms/AAa0fqa",
+    "https://www.manzill.com",
+    "https://www.example.com",
    ]
 
 # Generate a descriptive output path using the current date
