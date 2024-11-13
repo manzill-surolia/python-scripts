@@ -10,7 +10,7 @@ urls = [
 
 # Generate a descriptive output path using the current date
 current_date = datetime.datetime.now().strftime("%Y-%m-%d")
-output_path = fr"C:\Users\manzill.surolia\Desktop\linkcheck\hardcoded_links_with_Status_{current_date}.xlsx"
+output_path = fr"C:\Desktop\{current_date}.xlsx"
 
 print("Starting URL status check script...")
 
