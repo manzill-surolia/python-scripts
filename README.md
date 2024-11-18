@@ -1,2 +1,2 @@
 # python-scripts 
-# cheat sheet
+# collection of python scripts
